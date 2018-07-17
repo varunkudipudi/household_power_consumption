@@ -38,12 +38,11 @@ You may find it useful to convert the Date and Time variables to Date/Time class
 Note that in this dataset missing values are coded as ?.
 
 Making Plots
+
 Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.
 
 Construct the plot and save it to a jpeg file with a width of 1024 pixels and a height of 610 pixels.
 
 Name each of the plot files as varunplot1.jpg, varunplot2.jpg, etc. in Output.zip
-
-Add the PNG file and R code file to your git repository
 
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four JPEG files and four R code files.
